@@ -5,7 +5,7 @@
     <version value="1" />
 
     <list>
-        <mapping class="com.eminem.weatherapp.db.province" />
+        <mapping class="com.eminem.weatherapp.db.Province" />
         <mapping class="com.eminem.weatherapp.db.City" />
         <mapping class="com.eminem.weatherapp.db.County" />
     </list>
